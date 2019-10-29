@@ -4,15 +4,26 @@
 [<img src="img/chainlink-logo.png" align="right" width="150">](https://chain.link/)
 
 
-> 这里是优秀的中文Chainlink资料站，英文版的[在此](https://github.com/JohannEid/awesome-chainlink)
-
+> 这里是中文Chainlink资料站，英文版的[在此](https://github.com/JohannEid/awesome-chainlink)
 
 [Chainlink](https://chain.link)是一个去中心化的预言机网络网络，使智能合约可以安全地与外部数据源、事件和支付方式对接。Chainlink提供了复杂的智能合约所需的重要的链下信息，是数字协议的主要形式。
 
-## 内容
 
-<!-- TOC -->
-[toc]
+
+## 索引
+
+
+ - [中文社区](#中文社区) 
+ - [入门](#入门)
+ - [白皮书](#白皮书)
+ - [PPT介绍](#PPT介绍)
+ - [开发文档](#开发文档)
+ - [视频](#视频)
+ - [项目集成](#项目集成)
+ - [技术讲解](#技术讲解)
+ - [访谈](#访谈) 
+ - [服务](#服务) 
+
 
 
 ## 中文社区
@@ -138,9 +149,7 @@
 
 ### 节点
 
-**Chainlink官方认证节点**
-
-[Nodes verified and listed by Chainlink:](https://docs.chain.link/docs/decentralized-oracles-ethereum-mainnet)
+**Chainlink官方认证节点** 
 
 - [LinkPool](https://www.linkpool.io/)
 - [Fiews](https://fiews.io/) (also provides ETH node-as-a-service)
