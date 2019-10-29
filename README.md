@@ -71,3 +71,13 @@
 
 
 
+## 视频
+
+
+
+- [Sergey, Dawn, Vitalik, Jae在万向2019年峰会上的圆桌论坛](http://v.qq.com/x/page/j3006i6cgmv.html)
+
+- [Sergey Nazarov在大阪Devcon5上的演讲，2019年10月10日](http://v.qq.com/x/page/r3007s7jrli.html)
+
+- [巴比特专访：*Chainlink* CEO丨ChainNode直播间](https://v.qq.com/x/page/z30006omcm4.html)
+
