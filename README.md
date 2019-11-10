@@ -131,8 +131,8 @@
 - [通过Truffle开发框架来使用Chainlink](https://bihu.com/article/1057437295)
 - [运行Chainlink节点](https://bihu.com/article/1865395069)
 - [Chainlink如何帮助智能合约获取外部数据](https://bihu.com/article/1730327208)
-- [在以太Ropsten测试网络上查看Chainlink交易](https://bihu.com/article/1910154194) 
-
+- [在以太Ropsten测试网络上查看Chainlink交易](https://bihu.com/article/1910154194)
+- [为什么LINK使用ERC-677标准发行token](docs/why_LINK_chose_ERC677_protocol.md)
 
 
 ## 访谈
