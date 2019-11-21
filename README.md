@@ -127,13 +127,14 @@
 - [Mixicles优势详解：让公链上的DeFi应用更受企业青睐](https://bihu.com/article/1359132394)
 - [门限签名技术——优势详析篇](https://bihu.com/article/1944495034)
 - [使用Truffle助力Chainlink智能合约开发](https://bihu.com/article/1550174430)
-- [Chainlink节点搭建基础教程](https://bihu.com/article/1839124817)
+- [Chainlink节点搭建基础教程](docs/Chainlink节点搭建教程（docker版）.md)
 - [通过Truffle开发框架来使用Chainlink](https://bihu.com/article/1057437295)
 - [运行Chainlink节点](https://bihu.com/article/1865395069)
 - [Chainlink如何帮助智能合约获取外部数据](https://bihu.com/article/1730327208)
 - [在以太Ropsten测试网络上查看Chainlink交易](https://bihu.com/article/1910154194)
 - [为什么LINK使用ERC-677标准发行token](docs/why_LINK_chose_ERC677_protocol.md)
 - [Chainlink节点账户概念解析](docs/Chainlink节点账户概念解析.md)
+- [手动编译Chainlink节点](docs/手动编译Chainlink节点.md)
 
 ## 访谈
 
