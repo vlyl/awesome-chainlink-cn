@@ -133,7 +133,7 @@
 - [Chainlink如何帮助智能合约获取外部数据](https://bihu.com/article/1730327208)
 - [在以太Ropsten测试网络上查看Chainlink交易](https://bihu.com/article/1910154194)
 - [为什么LINK使用ERC-677标准发行token](docs/why_LINK_chose_ERC677_protocol.md)
-
+- [Chainlink节点账户概念解析](docs/Chainlink节点账户概念解析.md)
 
 ## 访谈
 
