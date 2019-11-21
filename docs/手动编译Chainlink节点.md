@@ -90,7 +90,7 @@
 
 由于众所周知的原因，在国内下载某些golang的库会失败，请自行解决网络问题。
 
-除了科学上网以外，你还可以添加国内的[goproxy](http://goproxy.io)来下载vendor包，或者使用我下载好vendor的项目仓库：[https://github.com/vlyl/chainlink](https://github.com/vlyl/chainlink) 。
+除了科学上网以外，你还可以添加国内的[goproxy](http://goproxy.io)来下载vendor包~~，或者使用我下载好vendor的项目仓库：[https://github.com/vlyl/chainlink](https://github.com/vlyl/chainlink) ~~。
 
 加载yarn依赖包，如果出错请多次执行
 
