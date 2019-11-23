@@ -66,7 +66,10 @@
 - [为什么未来的智能商业世界需要Chainlink](https://bihu.com/article/1925514357)
 - [Chainlink预言机，区块链大数据之桥](https://bihu.com/article/1965176836)
 - [为什么谷歌与甲骨文都选择与这家预言机合作？深度剖析 Chainlink 的解决方案](https://www.chainnews.com/articles/513626493124.htm)
-- [建立智能合约商用场景：Chainlink、Zk-Snarks和分片技术联手使出终极必杀技](https://bihu.com/article/1242138347) [英文原文](https://medium.com/@rogerfeng/making-smart-contracts-work-for-business-how-chainlink-zk-snarks-sharding-finally-delivered-8f268af75ca2) 
+- [建立智能合约商用场景：Chainlink、Zk-Snarks和分片技术联手使出终极必杀技](https://bihu.com/article/1242138347) [英文原文](https://medium.com/@rogerfeng/making-smart-contracts-work-for-business-how-chainlink-zk-snarks-sharding-finally-delivered-8f268af75ca2)
+
+如果您想深入了解一下,您可以<<精通以太坊>>一书中关于预言机的介绍
+ - [预言机](docs/预言机 from 精通以太坊.md)
 
 
 
