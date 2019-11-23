@@ -26,40 +26,6 @@
 
 
 
-## 中文社区
-
- - 微信客服
-
- ![](img/chainlink-wechat.jpg)
-
- 添加Chainlink微信官方客服账号，答对题目，即可加入Chainlink微信群。
-
-
- - 微信公众号
-
- ![](img/chainlink-wechat-officalaccount.jpg)
-
-
- - QQ群: 6135525 
- - [微博](https://weibo.com/chainlinkofficial)
- - [币乎](https://bihu.com/people/1869894547) - 每日更新Chainlink最新动态与技术分享
- - 合作联系<mailto:china@smartcontract.com>
-
-
-
-### 英文社区
-
-
- - [GitHub](https://github.com/smartcontractkit/chainlink)
- - [Gitter](https://gitter.im/smartcontractkit-chainlink/Lobby)
- - [Chainlink官方推特](https://twitter.com/chainlink)
- - [SmartContract推特（偏重技术）](https://twitter.com/Smart_Contract) 
- - [官方电报](https://t.me/chainlinkofficial)
- - [Discord](https://discordapp.com/invite/rCUqTAC)
- - [官方博客](https://blog.chain.link/)
-
-
-
 ## 入门
 
 - [【漫画】就是那个被谷歌采用的Chainlink，你不了解一下么？](https://bihu.com/article/1172722061)
@@ -69,7 +35,8 @@
 - [建立智能合约商用场景：Chainlink、Zk-Snarks和分片技术联手使出终极必杀技](https://bihu.com/article/1242138347) [英文原文](https://medium.com/@rogerfeng/making-smart-contracts-work-for-business-how-chainlink-zk-snarks-sharding-finally-delivered-8f268af75ca2)
 
 如果您想深入了解一下,您可以<<精通以太坊>>一书中关于预言机的介绍
- - [预言机](docs/预言机 from 精通以太坊.md)
+
+ - [预言机](docs/预言机from精通以太坊.md)
 
 
 
@@ -191,6 +158,37 @@
 
 - [API市场](https://honeycomb.market/) 
 
+## 中文社区
+
+ - 微信客服
+
+ ![](img/chainlink-wechat.jpg)
+
+ 添加Chainlink微信官方客服账号，答对题目，即可加入Chainlink微信群。
+
+
+ - 微信公众号
+
+ ![](img/chainlink-wechat-officalaccount.jpg)
+
+
+ - QQ群: 6135525 
+ - [微博](https://weibo.com/chainlinkofficial)
+ - [币乎](https://bihu.com/people/1869894547) - 每日更新Chainlink最新动态与技术分享
+ - 合作联系<mailto:china@smartcontract.com>
+
+
+
+### 英文社区
+
+
+ - [GitHub](https://github.com/smartcontractkit/chainlink)
+ - [Gitter](https://gitter.im/smartcontractkit-chainlink/Lobby)
+ - [Chainlink官方推特](https://twitter.com/chainlink)
+ - [SmartContract推特（偏重技术）](https://twitter.com/Smart_Contract) 
+ - [官方电报](https://t.me/chainlinkofficial)
+ - [Discord](https://discordapp.com/invite/rCUqTAC)
+ - [官方博客](https://blog.chain.link/)
 
 
 ## 您想添加新的资料
