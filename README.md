@@ -12,7 +12,7 @@
 
 欢迎添加Chainlink中文社区技术负责人微信, 添加时请备注"Chainlink社区开发者"
 
-![wechat](img/IMG_1583.JPG)
+![wechat](img/IMG_1583-min.JPG)
 
 ## 索引
 
