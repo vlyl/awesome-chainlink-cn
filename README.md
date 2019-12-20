@@ -8,7 +8,11 @@
 
 [Chainlink](https://chain.link)是一个去中心化的预言机网络网络，使智能合约可以安全地与外部数据源、事件和支付方式对接。Chainlink提供了复杂的智能合约所需的重要的链下信息，是数字协议的主要形式。
 
+# 加入Chainlink技术社区
 
+欢迎添加Chainlink中文社区技术负责人微信, 添加时请备注"Chainlink社区开发者"
+
+![wechat](img/IMG_1583.JPG)
 
 ## 索引
 
