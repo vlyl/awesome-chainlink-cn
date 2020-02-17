@@ -134,8 +134,8 @@ pragma solidity ^0.4.1;
 import "github.com/oraclize/ethereum-api/oraclizeAPI.sol";
 
 /*
-    "oraclize_" prepended methods indicate inheritance from "usingOraclize"
-    */
+"oraclize_" prepended methods indicate inheritance from "usingOraclize"
+*/
 contract EthUsdPriceTicker is usingOraclize {
 
     uint public ethUsd;
