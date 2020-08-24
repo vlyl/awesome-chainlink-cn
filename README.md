@@ -34,20 +34,15 @@
 
 ## 入门
 
+- [五分钟带你认识Chainlink](https://www.panewslab.com/zh/articledetails/D84167953.html)
 - [【漫画】就是那个被谷歌采用的Chainlink，你不了解一下么？](https://bihu.com/article/1172722061)
 - [为什么未来的智能商业世界需要Chainlink](https://bihu.com/article/1925514357)
 - [Chainlink预言机，区块链大数据之桥](https://bihu.com/article/1965176836)
 - [为什么谷歌与甲骨文都选择与这家预言机合作？深度剖析 Chainlink 的解决方案](https://www.chainnews.com/articles/513626493124.htm)
 - [建立智能合约商用场景：Chainlink、Zk-Snarks和分片技术联手使出终极必杀技](https://bihu.com/article/1242138347) [英文原文](https://medium.com/@rogerfeng/making-smart-contracts-work-for-business-how-chainlink-zk-snarks-sharding-finally-delivered-8f268af75ca2)
-
-
  - [Chainlink预言机基本原理](docs/Chainlink预言机基本原理.md)
  - [Chainlink常见问题](https://blog.chain.link/chainlinkchang-jian-wen-ti/)
- 
- 
-如果您想深入了解一下,您可以<<精通以太坊>>一书中关于预言机的介绍
-
- - [预言机](docs/预言机from精通以太坊.md)
+ - [预言机](docs/预言机from精通以太坊.md)(如果您想深入了解一下,您可以<<精通以太坊>>一书中关于预言机的介绍)
 
 
 
@@ -55,7 +50,7 @@
 ## 白皮书
 
  - [ChainLink A Decentralized Oracle Network](https://link.smartcontract.com/whitepaper) - Chainlink: 一个去中心化的预言机网络
- - [中文白皮书](https://github.com/JohannEid/Chainlink_Chinese_Whitepaper/blob/master/Chainlink-%E4%B8%AD%E6%96%87%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
+ - [中文白皮书](docs/Chainlink%20whitepaper中文版-202007润色版.pdf)
  - [Mixicles: Simple Private Decentralized Finance](https://chain.link/mixicles.pdf) - Mixcles: 去中心化金融的隐私保护
 
 
@@ -79,7 +74,7 @@
 
 ## 视频
 
-
+- [Chainlink资讯的B站空间](https://space.bilibili.com/482973600)
 
 - [Sergey, Dawn, Vitalik, Jae在万向2019年峰会上的圆桌论坛](http://v.qq.com/x/page/j3006i6cgmv.html)
 
@@ -104,7 +99,6 @@
 ## 技术讲解
 
 - [Chainlink节点相关账户概念解析](https://bihu.com/article/1914146585)
-
 - [Mixicles优势详解：让公链上的DeFi应用更受企业青睐](https://bihu.com/article/1359132394)
 - [门限签名技术——优势详析篇](https://bihu.com/article/1944495034)
 - [使用Truffle助力Chainlink智能合约开发](https://bihu.com/article/1550174430)
@@ -116,6 +110,8 @@
 - [为什么LINK使用ERC-677标准发行token](docs/why_LINK_chose_ERC677_protocol.md)
 - [Chainlink节点账户概念解析](docs/Chainlink节点账户概念解析.md)
 - [手动编译Chainlink节点](docs/手动编译Chainlink节点.md)
+- [使用Chainlink预言机，十分钟开发一个DeFi项目](https://learnblockchain.cn/article/1056)
+- [智能合约中使用更安全的随机数（代码实战篇）](https://learnblockchain.cn/article/1073)
 
 ## 访谈
 
@@ -129,40 +125,6 @@
 
 
 
-### 节点
-
-**Chainlink官方认证节点** 
-
-- [LinkPool](https://www.linkpool.io/)
-- [Fiews](https://fiews.io/) (also provides ETH node-as-a-service)
-- [Kaiko](https://www.kaiko.com/)
-- [CLC Group Honeycomb](https://www.clcg.io/)
-- [Secure Data Links](https://medium.com/secure-data-links/secure-data-links-5f8d852c9624)
-- [ChainLayer](https://www.chainlayer.io/)
-- [LinkForest](https://www.linkforest.io/)
-- [Certus One](https://certus.one/)
-- [Omniscience](https://omniscience.uk/)
-- [Stake.Fish](https://stake.fish/)
-- [Wetez](https://www.wetez.io/)
-- [Validation Capital](https://validation.capital/)
-- [NewRoad Capital](https://newroad.capital/)
-- [SimplyVC](https://www.simply-vc.com.mt/)
-- [SNZHolding](https://snzholding.com/pool)
-
-
-
-**market.link上列出的其他节点** 
-
-- [NodePool](https://www.nodepool.link/)
-- [2iq](https://www.2iqresearch.com/)
-- [Fibus](http://fibus.io/)
-- [NorthEast](https://www.northeast.limited/)
-- [Moonbounce Alpha](http://moonbounce.io/)
-- [ABC Nodes](https://twitter.com/abcnodes)
-- [MyLinkNode](https://mylinknode.com/) 
-
-
-
 ### 市场
 
 - [Chainlink市场market.link](https://market.link)
@@ -172,17 +134,16 @@
 ## 中文社区
 
  - 微信客服
-
- ![](img/chainlink-wechat.jpg)
-
- 添加Chainlink微信官方客服账号，答对题目，即可加入Chainlink微信群。
+`ChainlinkOfficial`
 
 
  - 微信公众号
+`Chainlink_Official`
 
- ![](img/chainlink-wechat-officalaccount.jpg)
+- 开发者社区
+ `neils_`
 
-
+ - [知乎](https://www.zhihu.com/people/chainlink)
  - QQ群: 6135525 
  - [微博](https://weibo.com/chainlinkofficial)
  - [币乎](https://bihu.com/people/1869894547) - 每日更新Chainlink最新动态与技术分享
@@ -194,12 +155,12 @@
 
 
  - [GitHub](https://github.com/smartcontractkit/chainlink)
- - [Gitter](https://gitter.im/smartcontractkit-chainlink/Lobby)
  - [Chainlink官方推特](https://twitter.com/chainlink)
  - [SmartContract推特（偏重技术）](https://twitter.com/Smart_Contract) 
  - [官方电报](https://t.me/chainlinkofficial)
- - [Discord](https://discordapp.com/invite/rCUqTAC)
+ - [Discord](https://discord.gg/2YHSAey)
  - [官方博客](https://blog.chain.link/)
+ - [官方博客(中文)](https://blog.chain.link/tag/chinese/)
 
 
 ## 您想添加新的资料
